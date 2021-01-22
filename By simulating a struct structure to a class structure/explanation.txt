@@ -1,0 +1,6 @@
+Choosing random names from Random_isimler.txt file, random age, tc number, phone number and IMEI
+It is requested to write a program that generates the number. Do not use the random ready function in this program.
+We have been asked to design our own random library. Writing in the C language
+Since there is no class structure in C language, we created the project by likening the struct structure to the class structure.
+We generated the information of the random person requested from us via the random function. Personal tc, mourning, phone
+We used inheritance to generate number and imei.
